@@ -1,0 +1,2 @@
+discord~=2.3.2
+SQLAlchemy~=2.0.31
